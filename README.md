@@ -7,3 +7,15 @@ Currently, I am only maintaing this project. If you want to join the project, As
 
 
 ![android-x86-BSD](https://user-images.githubusercontent.com/76979689/162092912-bcb9ad9f-d76f-4e9b-b334-27d3487c33ba.jpeg)
+
+
+
+
+
+
+
+Releases are below:
+
+Unstable: https://mega.nz/folder/3KgFhDII#ZpZdQznhMXJVBffUSPteew
+
+Stable: https://mega.nz/folder/3KgFhDII#ZpZdQznhMXJVBffUSPteew 
